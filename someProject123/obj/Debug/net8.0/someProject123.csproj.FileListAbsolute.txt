@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\someProject123\bin\Debug\net8.0\someProject123.exe
+C:\Users\prdb\Desktop\someProject123\bin\Debug\net8.0\someProject123.deps.json
+C:\Users\prdb\Desktop\someProject123\bin\Debug\net8.0\someProject123.runtimeconfig.json
+C:\Users\prdb\Desktop\someProject123\bin\Debug\net8.0\someProject123.dll
+C:\Users\prdb\Desktop\someProject123\bin\Debug\net8.0\someProject123.pdb
+C:\Users\prdb\Desktop\someProject123\obj\Debug\net8.0\someProject123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\someProject123\obj\Debug\net8.0\someProject123.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\someProject123\obj\Debug\net8.0\someProject123.AssemblyInfo.cs
+C:\Users\prdb\Desktop\someProject123\obj\Debug\net8.0\someProject123.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\someProject123\obj\Debug\net8.0\someProject123.dll
+C:\Users\prdb\Desktop\someProject123\obj\Debug\net8.0\refint\someProject123.dll
+C:\Users\prdb\Desktop\someProject123\obj\Debug\net8.0\someProject123.pdb
+C:\Users\prdb\Desktop\someProject123\obj\Debug\net8.0\someProject123.genruntimeconfig.cache
+C:\Users\prdb\Desktop\someProject123\obj\Debug\net8.0\ref\someProject123.dll
